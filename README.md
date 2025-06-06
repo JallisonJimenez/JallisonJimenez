@@ -2,7 +2,7 @@
 
 **`Desenvolvedor RPA`**
 
-Me chamo Jallison Alfredo Jimenez, tenho 23 anos e sou natural de Santa Catarina. Sou estudante de Ciência da Computação na Univali, com foco em desenvolvimento e automação de processos.
+Me chamo Jallison Alfredo Jimenez, tenho 21 anos e sou natural de Santa Catarina. Sou estudante de Ciência da Computação na Univali, com foco em desenvolvimento e automação de processos.
 
 Atualmente, atuo como estagiário em RPA na Bunge, onde desenvolvo robôs utilizando a plataforma Blue Prism, além de elaborar documentações técnicas como SDD, TCD e OHB. Também possuo experiência prática em atendimento ao cliente e rotinas administrativas, adquirida durante meu trabalho como garçom e auxiliar de escritório — funções que me ajudaram a desenvolver habilidades de comunicação, organização e suporte técnico.
 
