@@ -83,13 +83,7 @@ Tenho interesse por tecnologia, automação e desenvolvimento de soluções. Pos
 
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JallisonJimenez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JallisonJimenez&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=JallisonJimenez&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JallisonJimenez&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" width="420"/>
+</div>
